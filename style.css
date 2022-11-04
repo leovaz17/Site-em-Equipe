@@ -1,0 +1,16 @@
+ul{
+   display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+}
+body{
+    color: white;
+    background-color: black;
+}
+a{
+    color: white;
+}
+.imagem{
+    width: 1590px;
+}
