@@ -1,0 +1,54 @@
+.links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    margin-right: 20px;
+    margin-left: -20px;
+}
+  
+
+body{
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+a{
+    color: white;
+}
+.imagem{
+    width: 1110px;
+    height: 250px;
+}
+
+.cor1{ 
+    color: rgb(157, 73, 240);
+}
+
+.cor2{
+    color: blue;
+}
+
+.cor3{ 
+    color: greenyellow;
+}
+
+.foto{
+    width: 150px;
+    margin-left: -50px;
+
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.onda{
+    width: 400px;
+    margin-left: 380px
+    
+}
+h3{
+    margin-top: -20px;
+}
